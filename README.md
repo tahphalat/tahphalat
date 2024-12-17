@@ -32,7 +32,7 @@
 
 <h2 style="color:orange;"><u>My tools‍💫</u></h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,java,py,fortran)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,java,py)](https://skillicons.dev)
 
 <h3><i>C++ </i>: </h3>
 
@@ -45,12 +45,4 @@ int main(){
     cout << "Hello C++" << endl;
     return 0;
 }
-```
-<h3><i>Fortran </i>: </h3>
-
-```Fortran
-    program hello
-    ! Output
-    print *, 'Hello, World!'
-    end program hello
 ```
