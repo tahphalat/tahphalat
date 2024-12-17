@@ -17,22 +17,21 @@
 
 
  <hr>
-<h2 style="color:orange;"><u>My Stats⛅</u></h2>
-
-![ME](https://github-readme-stats.vercel.app/api?username=MyGitHubUsername&show_icons=true")
+<!-- <h2 style="color:orange;"><u>My Stats⛅</u></h2> -->
+<!-- ![ME](https://github-readme-stats.vercel.app/api?username=MyGitHubUsername&show_icons=true") -->
 
 <!-- ![License](https://img.shields.io/github/license/yourGitHubUsername/yourRepoName)
 ![License](https://img.shields.io/github/license/yourGitHubUsername/yourRepoName) -->
 
 <hr>
-<h2 style="color:Gold;"><u>My trophy😵‍💫</u></h2>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=yourGitHubUsername)
+<!-- <h2 style="color:Gold;"><u>My trophy😵‍💫</u></h2> -->
+<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=yourGitHubUsername) -->
 
 
 <h2 style="color:orange;"><u>My tools‍💫</u></h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,java,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java,js,ts,html,css,bootstrap,php,react,django)](https://skillicons.dev)
 
 <h3><i>C++ </i>: </h3>
 
