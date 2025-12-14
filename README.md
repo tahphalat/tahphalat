@@ -14,9 +14,14 @@
   </p>
 
   <p>
-     <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-     <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  </p>
+  <a href="mailto:phalat.tah@gmail.com?subject=Internship%202026%20-%20Phalat%20Lorratthanan&body=Hi%20Tah%2C%0D%0A%0D%0A">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/phalat-lorratthanan-b1a669323/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
 </div>
 
 <hr>
