@@ -1,47 +1,74 @@
-<h1 align="center" style="color:green;"><u><strong?>```Welcome```</strong></u></h1>
+<div align="center">
+  
+  <h1 style="border-bottom: none;">Hi there, I'm Phalat Lorratthanan (Tah) 👋</h1>
+  <h3>Computer Engineering Student (CEDT) @ Chulalongkorn University</h3>
+  
+  <p>
+    <b>Aspiring Data Engineer & Full-Stack Developer</b><br>
+    <i>Building scalable systems and modern web applications.</i>
+  </p>
+
+  <p>
+    <img src="https://raw.githubusercontent.com/CEDT-Chula/For-The-Cedt-Badge/9158fba08249df3322bb7e08b5b41ab7633fc62a/badges/cedt-engineer.svg" height="40">
+    <img src="https://raw.githubusercontent.com/CEDT-Chula/For-The-Cedt-Badge/9158fba08249df3322bb7e08b5b41ab7633fc62a/badges/chula-engineer.svg" height="40">
+  </p>
+
+  <p>
+     <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+     <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  </p>
+</div>
 
 <hr>
 
-<h2 style="color:red;"><u>Who am I?🤔 </u></h2>
-<h3 align="center", style="color:black;"> My name is <b>Phalat Lorratthanan</b></h3>
+### 👨‍💻 About Me
 
-<h4 align="center">(Tah is my nick name 🫡)</h4>
+I am a passionate Computer Engineering student currently seeking **Internship opportunities for 2026**. My focus lies in **Data Engineering** and **Full-Stack Development**, where I enjoy bridging the gap between raw data and actionable user insights.
 
-<p align="center"><img src="https://raw.githubusercontent.com/CEDT-Chula/For-The-Cedt-Badge/9158fba08249df3322bb7e08b5b41ab7633fc62a/badges/cedt-engineer.svg" > </p>
+*   🔭 I’m currently working on **High-Performance Data Pipelines**.
+*   🌱 I’m currently learning **Cloud Architecture (AWS/GCP)** and **Advanced System Design**.
+*   ⚡ Fun fact: I love transforming complex problems into clean, efficient code.
 
-<p align="center"><img src="https://raw.githubusercontent.com/CEDT-Chula/For-The-Cedt-Badge/9158fba08249df3322bb7e08b5b41ab7633fc62a/badges/chula-engineer.svg"> </p>
+---
 
-<p align="center">
-<!-- <img src="https://github.com/tah-Guylian/tah-Guylian/blob/main/S__37347435.jpg?raw=true"  align="center"   height="500" /> -->
-</p>
+### 🛠️ Technical Skills
 
+**Languages**  
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 
- <hr>
-<!-- <h2 style="color:orange;"><u>My Stats⛅</u></h2> -->
-<!-- ![ME](https://github-readme-stats.vercel.app/api?username=MyGitHubUsername&show_icons=true") -->
+**Web Development**  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
+![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 
-<!-- ![License](https://img.shields.io/github/license/yourGitHubUsername/yourRepoName)
-![License](https://img.shields.io/github/license/yourGitHubUsername/yourRepoName) -->
+**Data & Tools**  
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) 
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) 
 
-<hr>
+---
 
-<!-- <h2 style="color:Gold;"><u>My trophy😵‍💫</u></h2> -->
-<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=yourGitHubUsername) -->
+### 🏆 Featured Projects
 
+#### 📊 [JobScope Analytics Platform](https://github.com/tahphalat/job-market-analytics-recsys)
+> *End-to-end Data Engineering & Analytics System*
+> *   Built robust **ETL Pipelines** processing **120k+ job records**.
+> *   Implemented **Lambda Architecture** concepts for scalable data handling.
+> *   Developed interactive dashboards for real-time market insights.
 
-<h2 style="color:orange;"><u>My tools‍💫</u></h2>
+#### 🌐 [Personal Web Portfolio](https://github.com/tahphalat/job-market-analytics-recsys)
+> *Modern Responsive Web Application*
+> *   Showcasing projects with **Next.js** and **Tailwind CSS**.
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java,js,ts,html,css,bootstrap,php,react,django)](https://skillicons.dev)
+---
 
-<h3><i>C++ </i>: </h3>
-
-```c++
-#include <bits/stdc++.h>
-using namespace std;
-
-int main(){
-    // Output
-    cout << "Hello C++" << endl;
-    return 0;
-}
-```
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tahphalat&show_icons=true&theme=gotham&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahphalat&layout=compact&theme=gotham&hide_border=true" height="150" alt="languages graph" />
+</div>
