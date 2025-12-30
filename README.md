@@ -72,8 +72,3 @@ I am a passionate Computer Engineering student currently seeking **Internship op
 > *   Showcasing projects with **Next.js** and **Tailwind CSS**.
 
 ---
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tahphalat&show_icons=true&theme=gotham&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahphalat&layout=compact&theme=gotham&hide_border=true" height="150" alt="languages graph" />
-</div>
