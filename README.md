@@ -14,7 +14,7 @@
   </p>
 
   <p>
-  <a href="mailto:phalat.tah@gmail.com?subject=Internship%202026%20-%20Phalat%20Lorratthanan&body=Hi%20Tah%2C%0D%0A%0D%0A">
+  <a href="mailto:6733164621@student.chula.ac.th?subject=Internship%202026%20-%20Phalat%20Lorratthanan&body=Hi%20Phalat%2C%0D%0A%0D%0A">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/phalat-lorratthanan-b1a669323/">
