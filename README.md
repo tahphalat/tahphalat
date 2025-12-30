@@ -68,7 +68,8 @@ I am a passionate Computer Engineering student currently seeking **Internship op
 > *   Developed interactive dashboards for real-time market insights.
 
 #### 🌐 [Personal Web Portfolio](https://github.com/tahphalat/portfolio-website)
-> *Modern Responsive Web Application*
+> * [Go to the website](https://portfolio-website-phalat.vercel.app/)
+> * Modern Responsive Web Application
 > *   Showcasing projects with **Next.js** and **Tailwind CSS**.
 
 ---
