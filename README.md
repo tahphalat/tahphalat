@@ -67,7 +67,7 @@ I am a passionate Computer Engineering student currently seeking **Internship op
 > *   Implemented **Lambda Architecture** concepts for scalable data handling.
 > *   Developed interactive dashboards for real-time market insights.
 
-#### 🌐 [Personal Web Portfolio](https://github.com/tahphalat/job-market-analytics-recsys)
+#### 🌐 [Personal Web Portfolio](https://github.com/tahphalat/portfolio-website)
 > *Modern Responsive Web Application*
 > *   Showcasing projects with **Next.js** and **Tailwind CSS**.
 
